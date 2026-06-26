@@ -76,17 +76,25 @@ A cada push ou pull request na branch `main`, o pipeline executa:
 
 ---
 
+
+
 ## ▶️ Como Executar o Projeto
 
 ### 1. Instalar dependências
-```bash
+
 npm install
 
 ### 2. Executar Cypress em modo interativo
-```bash
+
 npx cypress open
 
+
+
+
 ---
+
+
+
 
 🧠 Conceitos Aplicados
 Testes E2E (End-to-End)
@@ -97,6 +105,7 @@ Geração de relatórios automatizados
 Boas práticas de QA Automation
 
 ---
+
 
 📌 Cenário Automatizado
 
@@ -109,6 +118,7 @@ Checkout com dados do usuário
 Finalização da compra com sucesso
 
 ---
+
 
 🏁 Status do Projeto
 
