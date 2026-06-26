@@ -4,6 +4,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+
+
 ---
 
 ## 📌 Sobre o Projeto
@@ -96,7 +98,8 @@ npx cypress open
 
 
 
-🧠 Conceitos Aplicados
+🧠 Conceitos Aplicados:
+
 Testes E2E (End-to-End)
 Automação de UI com Cypress
 Page Object Model (POM)
