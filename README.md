@@ -91,8 +91,9 @@ npm install
 
 npx cypress open
 
+### 3. Executar testes em modo CI (headless) 
 
-
+npx cypress run
 
 ---
 
