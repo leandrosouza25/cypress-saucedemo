@@ -86,6 +86,7 @@ A cada push ou pull request na branch `main`, o pipeline executa:
 
 npm install
 
+
 ### 2. Executar Cypress em modo interativo
 
 npx cypress open
@@ -97,28 +98,32 @@ npx cypress open
 
 
 
+## 🧠 Conceitos Aplicados
 
-🧠 Conceitos Aplicados:
+O projeto foi desenvolvido aplicando práticas modernas de automação de testes:
 
-Testes E2E (End-to-End)
-Automação de UI com Cypress
-Page Object Model (POM)
-CI/CD com GitHub Actions
-Geração de relatórios automatizados
-Boas práticas de QA Automation
+- ✔ Testes E2E (End-to-End)
+- ✔ Automação de UI com Cypress
+- ✔ Page Object Model (POM)
+- ✔ Integração CI/CD com GitHub Actions
+- ✔ Geração automatizada de relatórios (Mochawesome)
+- ✔ Boas práticas de QA Automation (legibilidade, manutenção e escalabilidade)
+
 
 ---
 
 
-📌 Cenário Automatizado
+## 📌 Cenário Automatizado
 
-Fluxo completo de compra no SauceDemo:
+O fluxo automatizado simula uma jornada real de compra no e-commerce SauceDemo:
 
-Autenticação de usuário
-Seleção de produto
-Validação no carrinho
-Checkout com dados do usuário
-Finalização da compra com sucesso
+- 🔐 Autenticação de usuário
+- 🛍️ Seleção de produto
+- 🛒 Validação de itens no carrinho
+- 🧾 Preenchimento de dados no checkout
+- ✅ Finalização da compra com sucesso
+
+
 
 ---
 
